@@ -1,4 +1,5 @@
-### The Lunar Lander Reinforcement Learning (RL) model is an AI-based approach to train an agent to land a spacecraft in a simulated environment. This model leverages Reinforcement Learning techniques, particularly Deep Q-Networks (DQN), to optimize the landing process.
+### The Lunar Lander Reinforcement Learning (RL) 
+model is an AI-based approach to train an agent to land a spacecraft in a simulated environment. This model leverages Reinforcement Learning techniques, particularly Deep Q-Networks (DQN), to optimize the landing process.
 
 ### Key Concepts:
 Reinforcement Learning (RL): A type of machine learning where an agent learns to make decisions by performing actions and receiving rewards or penalties.
