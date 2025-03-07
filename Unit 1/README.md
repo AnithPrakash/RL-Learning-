@@ -24,3 +24,11 @@ The performance is evaluated using visualized learning curves.
 The model shows improved landing success rates over episodes.
 
 Visualizations of reward accumulation and model performance are used to assess the training progress.
+
+
+### Bonus Unit 
+
+### Play with Huggy 
+Its the a similar model to lunar landing.
+
+to play with the huggy : https://huggingface.co/spaces/ThomasSimonini/Huggy
