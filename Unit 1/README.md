@@ -25,6 +25,7 @@ The model shows improved landing success rates over episodes.
 
 Visualizations of reward accumulation and model performance are used to assess the training progress.
 
+For video preview : https://huggingface.co/Anithprakash/RL_Learning 
 
 ### Bonus Unit 
 
